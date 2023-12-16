@@ -2,9 +2,68 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+## About the game
+Typing Game
+Welcome to the Typing Game! This project is designed to help you measure your typing speed, accuracy, and efficiency. To begin, you can simply visit the live demo by clicking the link below:
+
+[Typing Game Live Demo](https://interactivegame.netlify.app/)
+
+
+Please note that the project is still under development. However, the live demo should give you a general idea of the functionality and design of the Typing Game.
+
+If you have any suggestions or improvements, please feel free to submit a pull request or open an issue in the Typing Game GitHub Repository.
+
+Thank you for using the Typing Game!
+
+## Features
+1--Displays random words on the screen
+2--Records user typing speed and accuracy
+3--Provides feedback on the user's performance
+4--Customizable settings to suit your typing needs
+
+## Development Setup
+To run the Typing Game locally, follow these steps:
+
+## Clone the repository:
+
+
+git clone https://github.com/AmanPurohit2002/typing-game.git
+Change into the project directory:
+
+
+cd typing-game
+Install the required dependencies:
+
+
+npm install
+Start the development server:
+
+
+npm start
+The Typing Game should now be running at http://localhost:3000 in your browser.
+
+(Optional) If you would like to make changes to the project, feel free to create a new branch and make your changes. When you are ready, commit your changes and create a pull request to be reviewed by the project maintainers.
+
+For more detailed instructions and advanced usage, please refer to the Typing Game GitHub Repository.
+
+## Contributing
+If you would like to contribute to the Typing Game, please follow the guidelines outlined in the Contributing Guide. We look forward to your contributions!
+
+## License
+This project is licensed under the MIT License. Feel free to use and distribute the Typing Game as you wish.
+
+Please note that the name "Typing Game" and its associated branding materials (such as the project logo) are trademarks of Aman Purohit. The use of these trademarks outside of their respective scope is strictly prohibited.
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
