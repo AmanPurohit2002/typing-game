@@ -18,10 +18,10 @@ If you have any suggestions or improvements, please feel free to submit a pull r
 Thank you for using the Typing Game!
 
 ## Features
-1--Displays random words on the screen
-2--Records user typing speed and accuracy
-3--Provides feedback on the user's performance
-4--Customizable settings to suit your typing needs
+Displays random words on the screen
+Records user typing speed and accuracy
+Provides feedback on the user's performance
+Customizable settings to suit your typing needs
 
 ## Development Setup
 To run the Typing Game locally, follow these steps:
